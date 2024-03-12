@@ -28,7 +28,7 @@ nav {
   gap: 70px;
 }
 
-nav:hover{
+nav:hover {
   color: #eef5db;
 }
 
@@ -42,7 +42,7 @@ nav:hover{
   font-weight: bold;
 }
 
-.texto{
+.texto {
   text-align: center;
 }
 
